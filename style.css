@@ -68,3 +68,24 @@ section h1 {
 section p {
   font-size: 1.5rem;
 }
+
+/* Section Images */
+section#home {
+  background: url('https://images.wallpaperscraft.com/image/austin_texas_night_skyscrapers_58681_1600x900.jpg') no-repeat center center/cover;
+  ;
+}
+
+section#about {
+  background: url('http://s1.1zoom.me/b5050/226/425960-Kycb_1600x900.jpg') no-repeat center center/cover;
+  ;
+}
+
+section#service {
+  background: url('https://s2.best-wallpaper.net/wallpaper/1600x900/1705/Austin-Texas-USA-city-night-road-lights_1600x900.jpg') no-repeat center center/cover;
+  ;
+}
+
+section#contact {
+  background: url('http://tannermahan.com/images/gtr/image1.jpg') no-repeat center center/cover;
+  ;
+}
