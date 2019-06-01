@@ -1,1 +1,1 @@
-## Landing Page with Smooth Scrolling
+## Landing Page with Smooth Scrolling via CSS
