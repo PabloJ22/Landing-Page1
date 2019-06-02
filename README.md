@@ -7,6 +7,6 @@
 Created from scratch.
 
 > HTML5,
-> CSS3
+> CSS3 Flexbox
 
 ![](/images/LP-with-Smooth-Scroll-CSS.gif)
